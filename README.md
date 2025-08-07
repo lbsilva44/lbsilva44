@@ -36,7 +36,7 @@
 ### 📫 Contato
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/leonardo-bezerra-silva/](https://www.linkedin.com/in/leonardo-bezerra-silva/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="www.linkedin.com/in/leonardo-bezerra-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:leonardo.bezerra.dev@outlook.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://instagram.com/seu-insta"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" /></a>
   <a href="https://discordapp.com/users/seu-id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
